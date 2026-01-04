@@ -25,14 +25,13 @@ A full-featured MERN stack application with separate **frontend, backend, and ad
 
 ---
 
-## 💻 Tech Stack
+| Frontend                         | Backend                        | Database                             | Tools & Platforms | Cloud & Deployment             | Libraries & UI                |
+| -------------------------------- | ------------------------------ | ------------------------------------ | ----------------- | ------------------------------ | ----------------------------- |
+| React.js ⚛️                      | Node.js 🟢                     | MongoDB 🍃, PostgreSQL 🐘 (learning) | Git 🐙, GitHub 🐱 | Vercel 🚀, Render              | Material UI 🎨, shadcn/ui 🛠️ |
+| Next.js ⬅️                       | Express.js 🔧                  |                                      | Postman 📬        | AWS EC2 & S3 ☁️, Cloudflare 🌐 | Tailwind CSS, Redux Toolkit   |
+| JavaScript (ES6+), TypeScript 📝 | REST APIs 🌐, JWT 🔑, OAuth 🔒 |                                      | VS Code 💻        |                                |                               |
+| HTML, CSS 🎨                     | Socket.io 🔄                   |                                      |                   |                                |                               |
 
-| Frontend | Backend | Tools & Platforms |
-|----------|---------|-----------------|
-| React.js, Next.js | Node.js, Express.js | Git, GitHub |
-| JavaScript (ES6+) | MongoDB | Vercel, Render |
-| HTML, CSS, Tailwind CSS | REST APIs, Socket.io | AWS (EC2, S3 – Basics) |
-| Redux Toolkit |  |  |
 
 
 ---
