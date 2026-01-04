@@ -27,21 +27,13 @@ A full-featured MERN stack application with separate **frontend, backend, and ad
 
 ## 💻 Tech Stack
 
-### Frontend
-- React.js, Next.js
-- JavaScript (ES6+)
-- HTML, CSS, Tailwind CSS
-- Redux Toolkit
+| Frontend | Backend | Tools & Platforms |
+|----------|---------|-----------------|
+| React.js, Next.js | Node.js, Express.js | Git, GitHub |
+| JavaScript (ES6+) | MongoDB | Vercel, Render |
+| HTML, CSS, Tailwind CSS | REST APIs, Socket.io | AWS (EC2, S3 – Basics) |
+| Redux Toolkit |  |  |
 
-### Backend
-- Node.js, Express.js
-- MongoDB
-- REST APIs, Socket.io
-
-### Tools & Platforms
-- Git, GitHub
-- Vercel, Render
-- AWS (EC2, S3 – Basics)
 
 ---
 
