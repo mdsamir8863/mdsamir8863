@@ -9,6 +9,22 @@ I have worked on real production projects and am preparing for high-impact Front
 
 ---
 
+## 🏥 HMS Project – Hospital Management System
+
+A full-featured MERN stack application with separate **frontend, backend, and admin panel**:
+
+- **Backend Server:** [https://hms-server-2upg.onrender.com/](https://hms-server-2upg.onrender.com/)  
+- **Frontend (Patient Portal):** [https://hms-frontend-pearl.vercel.app/](https://hms-frontend-pearl.vercel.app/)  
+- **Admin Panel:** [https://hms-admin-two.vercel.app/](https://hms-admin-two.vercel.app/)
+
+**Features:**
+- Patient can browse doctors, book appointments, and make payments (Stripe/Razorpay).  
+- Doctors can manage and approve/reject appointments.  
+- Admin can manage doctors, view all appointments, track billing & revenue.  
+- Fully responsive UI and secure authentication.
+
+---
+
 ## 💻 Tech Stack
 
 ### Frontend
@@ -36,13 +52,21 @@ I have worked on real production projects and am preparing for high-impact Front
 - Displays live AQI data with real-time updates
 - Deployed on Vercel & Render
 
-🔗 Live: https://real-time-air-quality-prediction.vercel.app/
+🔗 Live: [https://real-time-air-quality-prediction.vercel.app/](https://real-time-air-quality-prediction.vercel.app/)
 
 ---
 
 ### 📰 Real-Time News Feed App
 - MERN stack app with Redux & Socket.io
 - Real-time updates without page refresh
+
+---
+
+### 🏥 Hospital Management System (HMS)
+- MERN stack app with separate **Frontend, Backend, and Admin panel**
+- Real-time appointment and billing management
+- Payments integration with Stripe & Razorpay
+- Fully responsive and secure
 
 ---
 
@@ -61,5 +85,5 @@ I have worked on real production projects and am preparing for high-impact Front
 ---
 
 ## 📫 Connect With Me
-- Portfolio: https://samir-portfolio-website.vercel.app/
-- LinkedIn: https://www.linkedin.com/in/md-samir-28257a244/
+- Portfolio: [https://samir-portfolio-website.vercel.app/](https://samir-portfolio-website.vercel.app/)  
+- LinkedIn: [https://www.linkedin.com/in/md-samir-28257a244/](https://www.linkedin.com/in/md-samir-28257a244/)
